@@ -1,0 +1,23 @@
+#container{
+    flex-direction: column;
+    justify-content: center;
+}
+.logo{
+    display: none;
+}
+#introduction1{
+    font-size: 34px;
+}
+#introduction2{
+    flex-direction: column-reverse;
+    font-size: 34px;
+}
+#camera-features{
+    flex-direction: column;
+}
+#cinematic-features{
+    flex-direction: column-reverse;
+}
+#cinematic-features img{
+width: 95%;
+}
